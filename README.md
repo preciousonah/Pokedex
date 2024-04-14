@@ -19,3 +19,10 @@ You will need to create a pokedex with the help of an API. We know that already 
 - An option to search from the list page, where we can search for different pokemons and show the result.
 - You can use whatever UI library you prefer if it will be easy to build the site.
 - The code can be sent via github.
+
+### Demo Video:
+- Loom Link: https://www.loom.com/share/7aecc1a50a03449aa07c937ac03c55e5?sid=dad54844-547a-4842-b14d-19e4f260bc43
+
+### Deployed version
+
+- Link to hosted website: pokedex-react-project.web.app
